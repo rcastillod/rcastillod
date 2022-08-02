@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Rodrigo Castillo
 
-![https://github.com/rcastillod](https://github.com/rcastillod/rcastillod#:~:text=rcastillodev_profile_banner.png)
+![https://github.com/rcastillod](https://raw.githubusercontent.com/rcastillod/rcastillod/main/rcastillodev_profile_banner.png)
 
 <!--
 **rcastillod/rcastillod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
