@@ -2,7 +2,7 @@
 
 ![https://github.com/rcastillod](https://raw.githubusercontent.com/rcastillod/rcastillod/main/rcastillodev_profile_banner.png)
 
-I am a web developer since 2014. Always looking to learn new things.
+I am a web developer since 2014. Always looking to learn new things about development and design.
 
 ## Dev Skills:
 [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
